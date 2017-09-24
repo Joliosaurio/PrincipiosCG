@@ -1,0 +1,6 @@
+﻿  Application.cpp
+c:\users\julio\desktop\magia\desarrollo\grafico\principiosdecg\poligonoschidos\src\application.cpp(48): warning C4101: 'channels': variable local sin referencia
+c:\users\julio\desktop\magia\desarrollo\grafico\principiosdecg\poligonoschidos\src\application.cpp(47): warning C4101: 'img_height': variable local sin referencia
+c:\users\julio\desktop\magia\desarrollo\grafico\principiosdecg\poligonoschidos\src\application.cpp(47): warning C4101: 'img_width': variable local sin referencia
+  PoligonosChidos.vcxproj -> C:\Users\Julio\Desktop\Magia\Desarrollo\Grafico\PrincipiosDeCG\x64\Debug\PoligonosChidos.exe
+  PoligonosChidos.vcxproj -> C:\Users\Julio\Desktop\Magia\Desarrollo\Grafico\PrincipiosDeCG\x64\Debug\PoligonosChidos.pdb (Partial PDB)
