@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (Sierpinski.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  TransformacionesV2.cpp
+c:\users\julio\desktop\magia\desarrollo\grafico\principiosdecg\transformacionesv2\transformacionesv2.cpp(11): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\julio\desktop\magia\desarrollo\grafico\principiosdecg\transformacionesv2\transformacionesv2.cpp(12): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\julio\desktop\magia\desarrollo\grafico\principiosdecg\transformacionesv2\transformacionesv2.cpp(14): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\julio\desktop\magia\desarrollo\grafico\principiosdecg\transformacionesv2\transformacionesv2.cpp(16): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\julio\desktop\magia\desarrollo\grafico\principiosdecg\transformacionesv2\transformacionesv2.cpp(26): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\julio\desktop\magia\desarrollo\grafico\principiosdecg\transformacionesv2\transformacionesv2.cpp(28): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\julio\desktop\magia\desarrollo\grafico\principiosdecg\transformacionesv2\transformacionesv2.cpp(30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\julio\desktop\magia\desarrollo\grafico\principiosdecg\transformacionesv2\transformacionesv2.cpp(32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\julio\desktop\magia\desarrollo\grafico\principiosdecg\transformacionesv2\transformacionesv2.cpp(42): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\julio\desktop\magia\desarrollo\grafico\principiosdecg\transformacionesv2\transformacionesv2.cpp(43): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  TransformacionesV2.vcxproj -> C:\Users\Julio\Desktop\Magia\Desarrollo\Grafico\PrincipiosDeCG\x64\Debug\TransformacionesV2.exe
+  TransformacionesV2.vcxproj -> C:\Users\Julio\Desktop\Magia\Desarrollo\Grafico\PrincipiosDeCG\x64\Debug\TransformacionesV2.pdb (Partial PDB)
